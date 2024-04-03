@@ -1,7 +1,7 @@
 ### Hello World!
 
-I'm a Costa Rican based web developer creating software thar makes people say wow! , I love programming languages as I love natural languages I'm a spanish native speaker, I speak chinese, english but in my daily life I use mostly Javascript to communicate 😎
+I'm a Costa Rican based web developer creating beautiful user interfaces and make the web a warmer place.
 
-Currently in maternity leave
+Tech stack: Javascript, React, Graphql, Golang, Rust.
 <!--
 
