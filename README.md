@@ -1,7 +1,9 @@
-### Hello World!
+### WELCOME! 🤗
 
-I'm a Costa Rican based web developer creating beautiful user interfaces and make the web a warmer place.
+I'm a Costa Rican based web developer creating cool web pages 🌈
+I spend a lot of time on the web so I appreciate a smooth and interactive experience that's what I'm committed to provide with my work. 🤓
 
-Tech stack: Javascript, React, Graphql, Golang, Rust.
+Tech stack 🖥️: Javascript, React, Graphql, NodeJS, Rust.
+Currently learning  📚: Rust 
 <!--
 
