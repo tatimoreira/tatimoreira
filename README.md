@@ -4,4 +4,4 @@ I spend a lot of time on the web so I appreciate a smooth and interactive experi
 
 **Tech stack:️** Javascript, React, NextJS, Tailwind, Graphql, NodeJs
 
-**Currently learning:** Rust
+**Currently learning:** Rust, Solana
