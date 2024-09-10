@@ -1,7 +1,3 @@
-I'm a Costa Rican based web developer creating cool web pages 🌈
+I'm a Costa Rican based web developer creating cool web experiences 🌈
 
-I spend a lot of time on the web so I appreciate a smooth and interactive experience that's what I'm committed to provide with my work. 🤓
-
-**Tech stack:️** Javascript, React, NextJS, Tailwind, Graphql, NodeJs
-
-**Currently learning:** Rust, Solana
+I’m a passionate Web3 full-stack developer with a strong background in building scalable, decentralized applications (dApps) and blockchain solutions for the web. I love to build responsive and performant front-end interfaces with React, Tailwind, Next.js and integrate them with blockchain solutions in Solana using Rust programming language.
